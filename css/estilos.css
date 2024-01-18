@@ -1,0 +1,44 @@
+h2[class^="h2"]{
+	border: 4px solid brown;
+}
+
+h2.h2uno{
+	background-color: #748bb0;
+	padding: 20px;
+}
+
+h2.h2dos{
+	background-color: #b4b8bf;
+	padding: 10px 15px;
+}
+
+h2.h2tres{
+	background-color: #adffd6;
+	margin-bottom: 40px;
+	padding-top: 25px;
+}
+
+div.colorDiv{
+	background-color: #17472f;
+}
+
+p.pUno{
+	background-color: #e3c55b;
+	padding: 15px;
+}
+
+p.pDos{
+	background-color: #b994e0;
+	padding-left: 40px;
+}
+
+p.pTres{
+	background-color: #edb9db;
+	padding: 30px;
+}
+
+p[class^="p"]{
+	border-bottom: 4px solid purple;
+	margin-left: 30px;
+}
+
